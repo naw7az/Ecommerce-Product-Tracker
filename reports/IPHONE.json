@@ -1,0 +1,47 @@
+{
+    "title": "IPHONE",
+    "data": "14/08/2020 &H:00:08",
+    "best_item": {
+        "Product ID": "B07XVLMXYH",
+        "url": "https://www.amazon.in/dp/B07XVLMXYH",
+        "title": "Apple iPhone 11 (128GB) - White",
+        "seller": "Apple",
+        "price": 72600.0
+    },
+    "currency": "\u20b9",
+    "filters": {
+        "min": "70000",
+        "max": "80000"
+    },
+    "base_link": "https://www.amazon.in/",
+    "products": [
+        {
+            "Product ID": "B07XVLMXYH",
+            "url": "https://www.amazon.in/dp/B07XVLMXYH",
+            "title": "Apple iPhone 11 (128GB) - White",
+            "seller": "Apple",
+            "price": 72600.0
+        },
+        {
+            "Product ID": "B07XVLHPMF",
+            "url": "https://www.amazon.in/dp/B07XVLHPMF",
+            "title": "Apple iPhone 11 (128GB) - (Product) RED",
+            "seller": "Apple",
+            "price": 72600.0
+        },
+        {
+            "Product ID": "B07XVMPXC9",
+            "url": "https://www.amazon.in/dp/B07XVMPXC9",
+            "title": "Apple iPhone 11 (128GB) - Green",
+            "seller": "Apple",
+            "price": 72600.0
+        },
+        {
+            "Product ID": "B07J317TRK",
+            "url": "https://www.amazon.in/dp/B07J317TRK",
+            "title": "Apple iPhone Xs Max (64GB) - Space Grey",
+            "seller": "Apple",
+            "price": 79699.0
+        }
+    ]
+}

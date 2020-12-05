@@ -1,0 +1,25 @@
+1. Cannot scrape data using request in amazon website, they have some fucking great engineers. So we are going to use
+   selenium.
+
+2. You can host this project on a webpage using Flask server.
+
+3. The automation using selenium in this project will work like a human only(slow speed), otherwise amazon
+   will know that this is run by a code.
+
+4. Installing Vertual environment:
+   1. go to folder where you wanna install venv using cmd
+   2. write 'python -m venv venv(this is name of folder)'
+   3. To activate: 'venv(folder name)\Scripts\activate.bat'
+   4. To deactivate: 'deactivate'
+
+5. The requirements file tell us all the module which are needed, but usually only with selenium the code will work.
+   the code to install all the module in requirements.txt is: pip install -r requirements.txt
+
+6. What is going on in this project step by step:
+   Step 1: Run the browser
+   Step 2: Go to amazon website
+   Step 3: Put the search bar name of items we are looking for(ps4, iphone etc)
+   Step 4: Go through multiple pages and get our items links(scrape)
+   Step 5: loop through each link, and get all the data from each product 
+   Step 6: Create a report based on our data
+   
